@@ -14,7 +14,7 @@ $ khaos install robbschiller/khaos-static static
 Create a new static site with
 
 ```
-$ khaos static my-site
+$ khaos create static my-site
 ```
 
 ## License
